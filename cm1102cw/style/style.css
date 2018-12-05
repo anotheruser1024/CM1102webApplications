@@ -1,0 +1,18 @@
+body {
+	background: pink;
+	font-family: sans-serif;
+	text-decoration:none;
+
+}
+input {
+	background-color: white;
+	border-radius: 10%	
+}
+
+legend {
+	font-family: sans-serif;	
+}
+
+fieldset {
+	border-radius: 25px
+}

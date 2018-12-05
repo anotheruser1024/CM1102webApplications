@@ -1,0 +1,16 @@
+body {
+	background: pink;
+	font-family: sans-serif;
+	text-decoration:none;
+
+}
+input {
+	background-color: white;
+	border-radius: 10%
+	background-color:black;
+}
+
+legend {
+	font-family: sans-serif;
+
+}

@@ -1,0 +1,7 @@
+Name: Christopher Spencer
+Student Number: c1855027
+URL: submission.cs.cf.ac.uk/SpencerC4/exercise2/
+
+Revisions since marking:
+changed line 15 of easterSunform.py from >/sup> to </sup> 
+superscript implementation.
